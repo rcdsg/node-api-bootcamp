@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-api-masterclass",
+  "version": "1.0.0",
+  "description": "API for more tests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcdsg/node-api-bootcamp.git"
+  },
+  "author": "Rodrigo Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcdsg/node-api-bootcamp/issues"
+  },
+  "homepage": "https://github.com/rcdsg/node-api-bootcamp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
